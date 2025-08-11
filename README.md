@@ -1,15 +1,21 @@
-Java DSA Practice
-This repository contains my Java-based solutions for various Data Structures and Algorithms (DSA) problems, practiced for placement preparation.
-The solutions are organized topic-wise for better understanding and quick reference.
+# **Java DSA Practice – Solutions Repository**  
 
-Topics Covered
-Arrays: Reverse array, find max/min, move zeros, rotations, missing numbers, frequency count, Kadane’s algorithm, etc.
+This repository contains my **Java-based solutions** for a wide range of **Data Structures and Algorithms (DSA)** problems, practiced during my placement preparation.  
+The problems are **organized topic-wise** for better readability and quick reference.  
 
-Strings: Palindrome check, reverse words, character frequency, anagrams, etc.
+---
 
-Sorting: Bubble sort, Selection sort, Insertion sort, Merge sort, Quick sort, etc.
+## **📌 Key Topics Covered**
+- **Arrays** → Reverse, max/min, missing number, frequency count, Kadane’s Algorithm, etc.  
+- **Strings** → Palindrome, reverse words, character frequency, anagram check, etc.  
+- **Sorting Algorithms** → Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort.  
+- **Linked Lists** → Insertion, deletion, reversal, cycle detection.  
+- **Miscellaneous** → Pattern printing, recursion problems, number theory basics.  
 
-Linked List: Insertion, deletion, reversal, cycle detection, etc.
+---
 
-Other Problems: Basic number theory, pattern printing, recursion problems, etc.
-
+## **⚙️ How to Run**
+1. **Install Java JDK 8+**  
+2. **Clone this repository**:  
+   ```bash
+   git clone https://github.com/swapnilmeshram16/Java-DSA-Practice.git
